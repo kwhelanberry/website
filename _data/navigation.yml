@@ -1,9 +1,9 @@
-- title: Start
-  url: "/"
-  side: left
+# - title: Start
+#   url: "/"
+#   side: left
 
-- title: Getting Started
-  url: "/getting-started/"
+- title: Home
+  url: "/"
   side: left
 
 - title: "Templates"
@@ -63,6 +63,8 @@
   url: "/blog/"
   side: left
   dropdown:
+  - title: "Latest Posts"
+    url: "/blog/"
   - title: "Blog Archive"
     url: "/blog/archive/"
 
