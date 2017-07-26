@@ -6,22 +6,22 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header_unsplash_12.jpg
+  image_fullwidth: percheader.jpg
 widget1:
   title: "Personal Coaching"
   url: 'coaching/'
   image: coaching.jpg
-  text: ''
+  text: 'I help individuals take steps to be their ideal selves every day, based on a strong foundation in positive psychology. I offer one-on-one personal coaching sessions in the Rhode Island area.'
 widget2:
   title: "Consulting for Teams"
   url: 'consulting/'
-  text: 'Every team is more productive when its dynamics allow it to function smoothly. I '
+  text: 'For a team to be most productive, it has to be more than just a group of people. I offer consulting for teams that enables them to work together on another level.'
   image: 'team.jpg'
 widget3:
   title: "About Me"
   url: 'about/'
   image: karen.jpg
-  text: '<em>Feeling Responsive</em> is free and licensed under a MIT License. Make it your own and start building. Grab the <a href="https://github.com/Phlow/feeling-responsive/tree/bare-bones-version">Bare-Bones-Version</a> for a fresh start or learn how to use it with the <a href="https://github.com/Phlow/feeling-responsive/tree/gh-pages">education-version</a> with sample posts and images. Then tell me via Twitter <a href="http://twitter.com/phlow">@phlow</a>.'
+  text: 'I have many years of both academic and professional experience with positive psychology and team building, and I look forward to helping you apply their core principles for better personal or professional results.'
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -44,9 +44,9 @@ permalink: /index.html
 homepage: true
 ---
 
-<div id="videoModal" class="reveal-modal large" data-reveal="">
+<!-- <div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">
     <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
   </div>
   <a class="close-reveal-modal">&#215;</a>
-</div>
+</div> -->

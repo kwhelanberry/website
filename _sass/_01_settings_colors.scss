@@ -26,12 +26,14 @@ $body-bg: 			#fdfdfd;
    https://color.adobe.com/de/Flat-Design-Colors-v2-color-theme-4341903/
 ------------------------------------------------------------------- */
 
-$ci-1: #334D5C;		// dark turquoise
-$ci-2: #45B29D;		// turquoise
+$ci-1: #133463; //#334D5C;		// dark turquoise => dark blue
+$ci-2: #F4EFDC; //#45B29D;		// turquoise => offwhite
 $ci-3: #EFC94C;		// yellow
 $ci-4: #E27A3F;		// orange
-$ci-5: #DF4949;		// red
-$ci-6: #A1D044;     // green
+$ci-5: #BA9B65; //#DF4949;		// red => brownish
+$ci-6: #799AE0; //A1D044;     // green => blue
+
+
 
 
 
@@ -107,9 +109,9 @@ $topbar-menu-icon-color-toggled: $ci-6;
 /* Footer
 ------------------------------------------------------------------- */
 
-$footer-bg: $grey-8;
+$footer-bg: $ci-5;  //$grey-8;
 $footer-color: #fff;
-$footer-link-color: $ci-6;
+$footer-link-color: $ci-2;
 
 
 $subfooter-bg: $grey-13;

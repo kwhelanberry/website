@@ -69,7 +69,11 @@ body.video cite { color: #fff; }
 ------------------------------------------------------------------- */
 
 #masthead {
-    background-color: $primary-color;
+    background-color: #ffffff; //$primary-color;
+    background: url(../../images/bigbanner.jpg) no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    margin-top: 2px;
 }
 #masthead-no-image-header {
     background-color: $primary-color;

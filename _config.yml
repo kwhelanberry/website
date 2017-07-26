@@ -23,6 +23,8 @@ credits: '<p>This site is based on <a href="http://phlow.github.io/feeling-respo
 # See > authors.yml
 author:
 
+image_fullwidth: 'true'
+
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
 url: 'https://karensite.netlify.com'
@@ -42,7 +44,7 @@ urlimg: 'images/'
 
 
 # Logo size is 600x80 pixels
-logo: "logo.png"
+logo: #"ourlogo.png"
 
 # Gems
 gems:
