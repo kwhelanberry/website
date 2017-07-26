@@ -21,6 +21,15 @@
 - title: "About"
   url: '/about/'
   side: right
+
+- title: "Sample Drop-Down"
+  url: '/test/'
+  side: right
+  dropdown:
+  - title: "Sample 1"
+    url: "/sample1/"
+  - title: "Sample 2"
+    url: "/sample2/"
 #   dropdown:
 #   - title: "Grid & Colors"
 #     url: "/design/grid/"
