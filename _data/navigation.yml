@@ -18,6 +18,10 @@
   url: '/consulting/'
   side: left
 
+- title: "LEAP Overview"
+  url: '/leap/'
+  side: left
+
 - title: "About"
   url: '/about/'
   side: right
